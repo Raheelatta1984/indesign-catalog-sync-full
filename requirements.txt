@@ -1,0 +1,6 @@
+pandas
+pyyaml
+watchdog
+sqlite3
+click
+streamlit
