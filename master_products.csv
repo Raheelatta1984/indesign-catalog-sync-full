@@ -1,4 +1,4 @@
-sku,product_name,price,options,finishes,description,image_path
-PROD001,Wireless Headphones,89.99,Bluetooth 5.0,Matte Black,High-quality noise cancelling headphones.,images/prod001.jpg
-PROD002,Smart Watch,199.50,Heart Rate Monitor,Silver,Track fitness and notifications.,images/prod002.jpg
-PROD003,Laptop Sleeve,29.99,Waterproof,Dark Gray,Protective case for 15 inch laptops.,images/prod003.jpg
+sku,name,price,description,category,stock
+PROD001,Widget A,19.99,"High quality widget",Electronics,100
+PROD002,Gadget B,49.99,"Premium gadget",Electronics,50
+PROD003,Book C,12.50,"Interesting book",Books,200
