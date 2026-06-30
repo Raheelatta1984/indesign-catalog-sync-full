@@ -1,0 +1,20 @@
+field_mappings:
+  sku: SKU
+  name: ProductName
+  price: Price
+  description: Description
+  category: Category
+  stock: StockLevel
+
+export_columns:
+  - SKU
+  - ProductName
+  - Price
+  - Description
+  - Category
+  - StockLevel
+
+validation_rules:
+  sku: required
+  price: numeric
+  stock: integer
