@@ -23,3 +23,15 @@ See `data/master_products.csv` and `config.yaml` for examples.
 - `python cli.py update --csv data/master_products.csv`
 - `python cli.py export`
 - `python cli.py history --sku PROD001`
+
+# InDesign Catalog Sync MCP - Mobile Ready
+
+Master Control Panel for CSV ↔ Adobe InDesign.
+
+## Mobile APK
+- Install via Termux + Buildozer (see below)
+- Tap buttons to Export/Update/History
+
+## Build APK
+```bash
+buildozer android debug
